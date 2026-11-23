@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+COLD+SPRINGS+RANCHERIA+OF+MONO+INDIANS+O",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+COLD+SPRINGS+RANCHERIA+OF+MONO+INDIANS+O",
+  "title": "Federal Register - CA COLD SPRINGS RANCHERIA OF MONO INDIANS O",
+  "fetched_at": "2026-11-23T17:54:20.663819Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 137750,
+  "sha256": "2492029383bb629f24d74640076c50c220978b925ef5921be2557bba907d7977",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
